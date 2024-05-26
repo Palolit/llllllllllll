@@ -1,0 +1,36 @@
+<html>
+    <head><title>Мої тварини</title></head>
+        <body style="background-color:#99ff66">
+          <header style="text-align:center; background-color:#009900
+;">
+<img src="https://png.pngtree.com/png-vector/20191026/ourlarge/pngtree-cat-face-line-icon-vector-png-image_1874331.jpg" height="48px">
+<a href="Mak">Перша тварина"Маквін"</a>
+<a href="Siamska">Маленький крикун"Мафік" </a>
+<a href="Meinkun">Дін або Дінкі</a>
+<a href="Meinkun">Пес Рокі</a>
+</header> 
+          <main  style="background-color:##9900ff;">
+                <h1 style="text-align:center; color:white;background-color:#009900
+;font-size:50px">Мої тварини</h1>
+                <h2 id="Mak" style="color:white;background-color:#009900
+;font-size: 40px">Перша тварина"Маквін"</h2>
+                <p style="text-align:center;color:white;font-size: 20px">Цей кіт з'явився у нас 6-5 років назад.Він був звичайним котом,сірим милий кот.Цей комок щастя покинув нас 2 роки назад. </p> 
+                <img src="https://today.ua/wp-content/uploads/2020/01/1-251.jpg" width="250px" height="200px" style="margin-left: 40px";/>
+                
+                <h2 id="Siamska" style="color:white;background-color:#009900
+;font-size: 30px">Маленький крикун"Мафік"</h2>
+                <p style="text-align:center;color:white;font-size: 23px">Я його так назвав бо він кричить коли йому дають їсти.А повне ім'я Мафіка "Мафіознік"</p>
+                <img src="https://lapa.shop/wp-content/uploads/2022/08/fold.jpg.pagespeed.ce.D3x73xhRlc.jpg"width="200px" height="250px" style="margin-left: 40px";/>
+                 
+                <h2 id="Meinkun" style="color:white;background-color:#009900
+;font-size: 30px">Дін або Дінкі</h2> 
+                <p style="text-align:center;color:white;font-size: 23px">Я його знайшов коли він був кошенятком із закритими очима.А зараз він йде на впевнену поправку після операції.</p>
+                <img src="https://rms.kufar.by/v1/list_thumbs_2x/adim1/c254c509-6c19-410e-b203-395fe4d11a41.jpg"width="200px" height="250px" style="margin-left: 40px";/>
+                
+                
+                <h2 id="Sfinks" style="color:white;background-color:#009900
+;font-size: 30px">Пес Рокі</h2> 
+                <p style="text-align:center;color:white;font-size: 23px">Цей пес з'явився 3 місяці назад.А зараз він впвнено почуває себе господарем двору.Дуже активний і грайливий пес. </p>
+                <img src="https://fello.pet/wp-content/uploads/2022/03/Belgian-Shepherd-Malinois-1.jpg"width="300px" height="250px" style="margin-left: 200px";/>
+
+</html>
